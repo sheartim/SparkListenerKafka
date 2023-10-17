@@ -18,3 +18,12 @@ The metrics the sample application captures:
 Number of records:
 ![numRecords](numRecords.png)
 
+Total delay:
+![totalDelay](totalDelay.png)
+
+Processing delay:
+![processingDelay](processingDelay.png)
+
+Scheduling delay:
+![schedulingDelay](schedulingDelay.png)
+
